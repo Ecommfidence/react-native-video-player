@@ -81,7 +81,11 @@ const styles = StyleSheet.create({
     height: 3,
   },
   overlayButton: {
-    flex: 1,
+    height: 100,
+    position: 'absolute',
+    bottom: 0,
+    left: 0,
+    right: 0
   },
 });
 
